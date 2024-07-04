@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "lH6V40w9kz8lrBlF4lmyBTLbzJlWrA4DMUOOovRqB4Y=",
+  "Source": "gameStore.Frontend",
+  "BasePath": "_content/gameStore.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "gameStore.Frontend\\wwwroot",
+      "Source": "gameStore.Frontend",
+      "ContentRoot": "D:\\c#\\gameStoreFront\\gameStore.Frontend\\wwwroot\\",
+      "BasePath": "_content/gameStore.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\c#\\gameStoreFront\\gameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\gameStore.Frontend.styles.css",
+      "SourceId": "gameStore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\c#\\gameStoreFront\\gameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/gameStore.Frontend",
+      "RelativePath": "gameStore.Frontend.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\c#\\gameStoreFront\\gameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\gameStore.Frontend.styles.css"
+    },
+    {
+      "Identity": "D:\\c#\\gameStoreFront\\gameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\gameStore.Frontend.bundle.scp.css",
+      "SourceId": "gameStore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\c#\\gameStoreFront\\gameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/gameStore.Frontend",
+      "RelativePath": "gameStore.Frontend.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\c#\\gameStoreFront\\gameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\gameStore.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\c#\\gameStoreFront\\gameStore.Frontend\\wwwroot\\app.css",
+      "SourceId": "gameStore.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\gameStoreFront\\gameStore.Frontend\\wwwroot\\",
+      "BasePath": "_content/gameStore.Frontend",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}
